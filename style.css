@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-image: url("img/pngtree-partnership-of-companies-collaboration-business-technology-internet-concept-image_15659993.jpg");
+     background-size: cover;
+}
+h1 {
+    color: #9b0f0f;
+    text-align:center ;
+}
+.controls {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+select {
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 4px;
+    border: 1px solid #06f0f8b9;
+}
+.employee-list {
+    list-style: none;
+    padding: 0;
+}
+.employee-item {
+    padding: 10px 15px;
+    margin-bottom: 8px;
+    background-color: #70b945;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 40%;
+    text-align: center;
+}
+.department {
+    color: #0818f8;
+    font-style: italic;
+}
